@@ -7,8 +7,6 @@ Leah's first project, AFit, is a website to record and track exercises and find 
 
 visit the deployed site: [AFit Website](https://a-fit.netlify.app/)
 
-Read the final project blog article in LinkedIn: (https://www.linkedin.com/posts/adamb7r_alx-gratitude-mentorship-activity-7242245450802622464-gknL?utm_source=share&utm_medium=member_desktop))
-
 ## Installation
 In the project directory, you can run:
 
